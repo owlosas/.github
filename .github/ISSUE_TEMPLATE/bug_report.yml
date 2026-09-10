@@ -1,6 +1,5 @@
 name: Bug report
 description: Report any actual or potential behavior that could be unsafe, inappropriate for its intended use, or contrary to specification.
-title: ''
 labels: []
 type: bug
 body:
